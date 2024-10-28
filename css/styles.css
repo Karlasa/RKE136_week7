@@ -18,7 +18,7 @@ html {
   margin: 10rem auto;
   text-align: center;
   background: linear-gradient(rgba(203, 200, 0, 0.626), rgba(0, 0, 0, 0.177)),
-    url("/images/image.webp");
+    url("../images/image.webp");
   background-size: cover;
   background-position: center;
 }
